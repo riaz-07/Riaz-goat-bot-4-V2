@@ -18,7 +18,7 @@ async function getAIResponse(input, userId, messageID) {
     { url: 'https://ai-chat-gpt-4-lite.onrender.com/api/hercai', params: { question: input } }
   ];
 
-  let response = "Salut , je suis l'intelligence artificielle créer 𝐩𝐚𝐫🍏𝐑𝐈𝐀𝐙🍎𝐄𝐒𝐓 𝐀𝐑𝐒𝐄𝐍𝐄 💧💧 je suis là pour répondre à tes questions...(⁠◠⁠‿⁠◕⁠)";
+  let response = "Salut , je suis l'intelligence artificielle créer 𝐩𝐚𝐫🍏𝐑𝐈𝐀𝐙🍎 💧💧 je suis là pour répondre à tes questions...(⁠◠⁠‿⁠◕⁠)";
   let currentIndex = 0;
 
   for (let i = 0; i < services.length; i++) {
@@ -36,22 +36,22 @@ async function getAIResponse(input, userId, messageID) {
 
 module.exports = {
   config: {
-    name: 'ai',
+    name: 'dado',
     author: 'Arn',
     role: 0,
-    category: 'ai',
+    category: 'dado',
     shortDescription: 'ai to ask anything',
   },
   onStart: async function ({ api, event, args }) {
     const input = args.join(' ').trim();
     if (!input) {
-      api.sendMessage(`Please provide a question or statement. `, event.threadID, event.messageID);
+      api.sendMessage(`Chuis une Ia développé par Riaz `, event.threadID, event.messageID);
       return;
     }
 
     const { response, messageID } = await getAIResponse(input, event.senderID, event.messageID);
     api.sendMessage(` \n══════🍏𝐑𝐈𝐀𝐙🍎══════\n🥏 ${response} 🪶\n
-══════🍏𝐀𝐑𝐒𝐄𝐍𝐄🍎══════`, event.threadID, messageID);
+══════🍏DADO🍎══════`, event.threadID, messageID);
   },
   onChat: async function ({ event, message }) {
     const messageContent = event.body.trim().toLowerCase();
@@ -62,7 +62,7 @@ module.exports = {
 
 \n══════🍏𝐑𝐈𝐀𝐙🍎══════
 \n🥏 ${response} 🪶\n
-══════🍏𝐀𝐑𝐒𝐍𝐄🍎══════`, messageID);
+══════🍏DADO🍎══════`, messageID);
     }
   }
 };
