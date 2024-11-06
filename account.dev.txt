@@ -1,1 +1,92 @@
-WwoJewoJCSJrZXkiOiAiZGJsbiIsCgkJInZhbHVlIjogIiU3QiUyMjYxNTY1OTE0MTIyMzUyJTIyJTNBJTIyb2NKeGpxOXAlMjIlMkMlMjI2MTU2NzE1NDg3ODMwMSUyMiUzQSUyMkw1NFBqQkNJJTIyJTJDJTIyNjE1NjQyNjQxOTQ4NTQlMjIlM0ElMjJrV05MejBuSCUyMiUyQyUyMjYxNTY2OTAwNjQwNzkwJTIyJTNBJTIyMmxBN3BwSG8lMjIlMkMlMjI2MTU2Njk5MzQ2MTIzMSUyMiUzQSUyMnJGcTRhcjhtJTIyJTJDJTIyNjE1Njc0NTk5MzQ3MDAlMjIlM0ElMjJGdDBLS2tDRSUyMiU3RCIsCgkJImRvbWFpbiI6ICJmYWNlYm9vay5jb20iLAoJCSJwYXRoIjogIi9sb2dpbi9kZXZpY2UtYmFzZWQvIiwKCQkiaG9zdE9ubHkiOiBmYWxzZSwKCQkiY3JlYXRpb24iOiAiMjAyNC0xMS0wNlQyMjowMjoyOS4yNjBaIiwKCQkibGFzdEFjY2Vzc2VkIjogIjIwMjQtMTEtMDZUMjI6MDI6MjkuMjYwWiIKCX0sCgl7CgkJImtleSI6ICJzYiIsCgkJInZhbHVlIjogImNuX2xacDE4LUhJaG11QWRoY29tVG5BNSIsCgkJImRvbWFpbiI6ICJmYWNlYm9vay5jb20iLAoJCSJwYXRoIjogIi8iLAoJCSJob3N0T25seSI6IGZhbHNlLAoJCSJjcmVhdGlvbiI6ICIyMDI0LTExLTA2VDIyOjAyOjI5LjI2MFoiLAoJCSJsYXN0QWNjZXNzZWQiOiAiMjAyNC0xMS0wNlQyMjowMjoyOS4yNjBaIgoJfSwKCXsKCQkia2V5IjogImRhdHIiLAoJCSJ2YWx1ZSI6ICJDMUlBWnhGdXVCM1VWWFZVbHc4M3R4X3kiLAoJCSJkb21haW4iOiAiZmFjZWJvb2suY29tIiwKCQkicGF0aCI6ICIvIiwKCQkiaG9zdE9ubHkiOiBmYWxzZSwKCQkiY3JlYXRpb24iOiAiMjAyNC0xMS0wNlQyMjowMjoyOS4yNjBaIiwKCQkibGFzdEFjY2Vzc2VkIjogIjIwMjQtMTEtMDZUMjI6MDI6MjkuMjYwWiIKCX0sCgl7CgkJImtleSI6ICJ2cGQiLAoJCSJ2YWx1ZSI6ICJ2MSUzQjY2NngzNjB4MiIsCgkJImRvbWFpbiI6ICJmYWNlYm9vay5jb20iLAoJCSJwYXRoIjogIi8iLAoJCSJob3N0T25seSI6IGZhbHNlLAoJCSJjcmVhdGlvbiI6ICIyMDI0LTExLTA2VDIyOjAyOjI5LjI2MFoiLAoJCSJsYXN0QWNjZXNzZWQiOiAiMjAyNC0xMS0wNlQyMjowMjoyOS4yNjBaIgoJfSwKCXsKCQkia2V5IjogIndkIiwKCQkidmFsdWUiOiAiMzYweDY2NiIsCgkJImRvbWFpbiI6ICJmYWNlYm9vay5jb20iLAoJCSJwYXRoIjogIi8iLAoJCSJob3N0T25seSI6IGZhbHNlLAoJCSJjcmVhdGlvbiI6ICIyMDI0LTExLTA2VDIyOjAyOjI5LjI2MFoiLAoJCSJsYXN0QWNjZXNzZWQiOiAiMjAyNC0xMS0wNlQyMjowMjoyOS4yNjBaIgoJfSwKCXsKCQkia2V5IjogImNfdXNlciIsCgkJInZhbHVlIjogIjYxNTY3NDU5OTM0NzAwIiwKCQkiZG9tYWluIjogImZhY2Vib29rLmNvbSIsCgkJInBhdGgiOiAiLyIsCgkJImhvc3RPbmx5IjogZmFsc2UsCgkJImNyZWF0aW9uIjogIjIwMjQtMTEtMDZUMjI6MDI6MjkuMjYwWiIsCgkJImxhc3RBY2Nlc3NlZCI6ICIyMDI0LTExLTA2VDIyOjAyOjI5LjI2MFoiCgl9LAoJewoJCSJrZXkiOiAiZnIiLAoJCSJ2YWx1ZSI6ICIwYWM5Y0tlNmxFNEFvZVZSaS5BV1VGNDdZdlRHeFROZXRnQmdUNlg1aGsyZVEuQm01WDl5Li5BQUEuMC4wLkJuSi1odS5BV1Y3R1VubHp3USIsCgkJImRvbWFpbiI6ICJmYWNlYm9vay5jb20iLAoJCSJwYXRoIjogIi8iLAoJCSJob3N0T25seSI6IGZhbHNlLAoJCSJjcmVhdGlvbiI6ICIyMDI0LTExLTA2VDIyOjAyOjI5LjI2MFoiLAoJCSJsYXN0QWNjZXNzZWQiOiAiMjAyNC0xMS0wNlQyMjowMjoyOS4yNjBaIgoJfSwKCXsKCQkia2V5IjogInhzIiwKCQkidmFsdWUiOiAiMTMlM0F1WWc0d0hzWXI3U2pEUSUzQTIlM0ExNzMwNjY4NjU2JTNBLTElM0EtMSIsCgkJImRvbWFpbiI6ICJmYWNlYm9vay5jb20iLAoJCSJwYXRoIjogIi8iLAoJCSJob3N0T25seSI6IGZhbHNlLAoJCSJjcmVhdGlvbiI6ICIyMDI0LTExLTA2VDIyOjAyOjI5LjI2MFoiLAoJCSJsYXN0QWNjZXNzZWQiOiAiMjAyNC0xMS0wNlQyMjowMjoyOS4yNjBaIgoJfSwKCXsKCQkia2V5IjogImZibF9zdCIsCgkJInZhbHVlIjogIjEwMDcyNzQyMyUzQlQlM0EyODg0ODg0MiIsCgkJImRvbWFpbiI6ICJmYWNlYm9vay5jb20iLAoJCSJwYXRoIjogIi8iLAoJCSJob3N0T25seSI6IGZhbHNlLAoJCSJjcmVhdGlvbiI6ICIyMDI0LTExLTA2VDIyOjAyOjI5LjI2MFoiLAoJCSJsYXN0QWNjZXNzZWQiOiAiMjAyNC0xMS0wNlQyMjowMjoyOS4yNjBaIgoJfSwKCXsKCQkia2V5IjogIndsX2NidiIsCgkJInZhbHVlIjogInYyJTNCY2xpZW50X3ZlcnNpb24lM0EyNjY1JTNCdGltZXN0YW1wJTNBMTczMDkzMDUxOSIsCgkJImRvbWFpbiI6ICJmYWNlYm9vay5jb20iLAoJCSJwYXRoIjogIi8iLAoJCSJob3N0T25seSI6IGZhbHNlLAoJCSJjcmVhdGlvbiI6ICIyMDI0LTExLTA2VDIyOjAyOjI5LjI2MFoiLAoJCSJsYXN0QWNjZXNzZWQiOiAiMjAyNC0xMS0wNlQyMjowMjoyOS4yNjBaIgoJfQpd
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261565914122352%22%3A%22ocJxjq9p%22%2C%2261567154878301%22%3A%22L54PjBCI%22%2C%2261564264194854%22%3A%22kWNLz0nH%22%2C%2261566900640790%22%3A%222lA7ppHo%22%2C%2261566993461231%22%3A%22rFq4ar8m%22%2C%2261567459934700%22%3A%22Ft0KKkCE%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	},
+	{
+		"key": "sb",
+		"value": "cn_lZp18-HIhmuAdhcomTnA5",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	},
+	{
+		"key": "datr",
+		"value": "C1IAZxFuuB3UVXVUlw83tx_y",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B666x360x2",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	},
+	{
+		"key": "wd",
+		"value": "360x666",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61567459934700",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	},
+	{
+		"key": "fr",
+		"value": "0ac9cKe6lE4AoeVRi.AWUF47YvTGxTNetgBgT6X5hk2eQ.Bm5X9y..AAA.0.0.BnJ-hu.AWV7GUnlzwQ",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	},
+	{
+		"key": "xs",
+		"value": "13%3AuYg4wHsYr7SjDQ%3A2%3A1730668656%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "100727423%3BT%3A28848842",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A2665%3Btimestamp%3A1730930519",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-11-06T22:03:41.726Z",
+		"lastAccessed": "2024-11-06T22:03:41.726Z"
+	}
+]
